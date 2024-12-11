@@ -30,3 +30,5 @@ function mystery(n) {
 Add your answer to this markdown file. [This
 page](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions)
 might help with the notation for mathematical expressions.
+
+Analysis: The recurrence relation: T(n) = aT(n/b) + O(n^d). The runtime would be O(n^5).
